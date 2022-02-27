@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of a great victory obtained (through Gods providence) by the Parliaments forces in Cheshire, under the command of Sir William Brereton, against the Kings forces under the command of Sir William Vaughan, neer Denbigh, November 1. 1645. Where were taken of the enemy, about four hundred prisoners, five or six hundred horse, and above one hundred slain. Sent in two letters to the Honorable William Lenthall Esq; Speaker to the Honorable House of Commons. Ordered by the Commons assembled in Parliament, that this relation be forthwith printed and published. H. Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88571</idno>
+            <idno type="STC">Wing L312</idno>
+            <idno type="STC">Thomason E308_14</idno>
+            <idno type="STC">ESTC R200371</idno>
+            <idno type="EEBO-CITATION">99861162</idno>
+            <idno type="PROQUEST">99861162</idno>
+            <idno type="VID">113290</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88571)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113290)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E308[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of a great victory obtained (through Gods providence) by the Parliaments forces in Cheshire, under the command of Sir William Brereton, against the Kings forces under the command of Sir William Vaughan, neer Denbigh, November 1. 1645. Where were taken of the enemy, about four hundred prisoners, five or six hundred horse, and above one hundred slain. Sent in two letters to the Honorable William Lenthall Esq; Speaker to the Honorable House of Commons. Ordered by the Commons assembled in Parliament, that this relation be forthwith printed and published. H. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Lancaster, Nathaniel, 1600 or 1601-1661.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons, and are to be sold at his shop, at the sign of the Golden-Dragon neer the Middle-Temple,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Novemb. 5. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The second letter is dated and signed: Denbigh town, Nov. 1. 1645. Nathaniel Lancaster.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Denbigh (Wales) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113290:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 57 -->
+            <p>A true Relation of a great VICTORY OBTAINED <hi>(Through Gods
+Providence)</hi> BY The Parliaments Forces in <hi>Cheſhire,</hi> under the
+command of Sir <hi>William Brereton,</hi> AGAINST The Kings Forces under the
+Com<g ref="char:EOLhyphen"/>mand of Sir <hi>William Vaughan,</hi> neer <hi>Den<g ref="char:EOLhyphen"/>bigh,</hi> November 1.
+1645. Where were taken of the Enemy, about Four hun<g ref="char:EOLhyphen"/>dred priſoners, Five or
+ſix hundred horſe, and above One hundred ſlain. <hi>Sent in two Letters
+to the Honorable</hi> William Lenthall <hi>
+                  <abbr>Eſq</abbr> Speaker of the
+Honorable Houſe of Commons.</hi>
+            </p>
+            <q>  
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons aſſembled in Parliament, That
+this Relation be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>H. Elſynge, Cler. Parl. D.
+Com.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>London, Printed for <hi>Edward Husband,</hi> Printer to the
+Honorable Houſe of Commons, and are to be ſold at his ſhop, at the ſign
+of the Golden-Dragon neer the Middle-Temple, <hi>Novemb.</hi> 5. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="2" facs="tcp:113290:2"/>
+            <!-- PDF PAGE 58 -->
+            <head>To the Honorable <hi>VVilliam Lenthall</hi>
+               <abbr>Eſq</abbr> Speaker of the Honorable Houſe of Commons.</head>
+            <opener>
+               <salute>Honorable Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T pleaſed God this day to be<g ref="char:EOLhyphen"/>ſtow upon us a memorable
+Victory neer <hi>Denbigh;</hi> ſuch is the throng of buſineſſe lying on
+us at this time, that we cannot ſignifie the particulars under our own hands,
+but commit the account thereof to Mr. <hi>Lan<g ref="char:EOLhyphen"/>caſter,</hi> Chaplain to the
+<hi>Cheſhire</hi> Forces, who was an Eye-witneſſe in this Service;
+whoſe relation you may credit as under the hands of</p>
+            <closer>
+               <signed>Your moſt humble and faithfull Servants, 
+<list>
+                     <item>
+                        <hi>Tho: Mytton,</hi>
+                     </item>
+                     <item>
+                        <hi>Mic. Jones,</hi>
+                     </item>
+                     <item>
+                        <hi>James Louthian,</hi>
+                     </item>
+                     <item>
+                        <hi>Geo: Gouldegay.</hi>
+                     </item>
+                  </list>
+               </signed> 
+               <dateline>
+                  <hi>Denbigh</hi> Town, 
+<date>firſt Novem. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="3" facs="tcp:113290:2"/>
+            <!-- PDF PAGE 58 -->
+            <head>To the Honorable <hi>William Lenthall</hi> 
+               <abbr>Eſq</abbr>
+Speaker of the Honorable Houſe of Commons.</head>
+            <opener>
+               <salute>Honorable Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T pleaſed the moſt high, who commands all the Armies in
+heaven and earth, to magnifie his power this day by a me<g ref="char:EOLhyphen"/>morable Victory over
+the Enemy neer Denbigh, of which (being appointed thereunto by the Commanders,
+whoſe many other imployments tranſmit it to this pen) I ſhall render as
+full an accompt as may be expected from a work yet in<g ref="char:EOLhyphen"/>digeſted.</p>
+            <p>Sir <hi>William Brereton</hi> upon his return to Cheſhire,
+found the work for reducing Cheſter and Beſton caſtle in a good
+po<g ref="char:EOLhyphen"/>ſture; but the Enemy eſteeming Cheſter the Maſterpiece of the
+Kingdom, exten<g ref="char:EOLhyphen"/>ded their utmoſt endeavours for the relief thereof, gathered
+into a body about Den<g ref="char:EOLhyphen"/>bigh, <pb n="4" facs="tcp:113290:3"/>
+               <!-- PDF PAGE 59 -->waiting
+an opportunity for the effe<g ref="char:EOLhyphen"/>cting of that high Deſign, without which they
+gave up thoſe parts as utterly loſt; ſir <hi>William</hi> reſerving a
+competent ſtrength to make good both Leaguers, ſent away Col:
+<hi>Jones</hi> and Adjutant <hi>Louthiane,</hi> dex<g ref="char:EOLhyphen"/>trous and truſty men,
+with the Cheſhire Forces and Auxiliaries of the counties of Lancaſter,
+Derby, VVarwick, Mount<g ref="char:EOLhyphen"/>gomery and Salop; the whole about four<g ref="char:EOLhyphen"/>teen hundred
+horſe, and one thouſand foot, being the cream of all theſe parts of the
+Kingdom. The Enemy, under the command of Sir <hi>William Vaughan</hi> (as our
+beſt Intelligence by the priſoners gives us) were about ſeventeen hundred
+horſe, and four hundred foot: on Thurſday night we marcht to Moulde, on
+Friday to Ruthin, where having Intelligence the Enemy was at Denbigh (reported
+to be a far greater number) wee haſted thither <pb n="5" facs="tcp:113290:3"/>
+               <!-- PDF PAGE 59 -->upon
+Saturday, Novem. 1. accompanied with that active Gentleman, Gen:
+<hi>Mytton</hi> and part of his Auxiliaries, the reſt being left at
+Cheſter. The Forlorn-hope, forty out of every Regiment was commanded by Capt.
+<hi>Otter</hi> captain of the Reformades a gallant Souldier, &amp; Capt.
+<hi>Will: Edwards</hi> a Cheſhire captain, and well-deſerving Gentleman,
+who coming to VVhitchurch a mile from Denbigh, were in a lane flanckt by the
+Enemies horſe and Dra<g ref="char:EOLhyphen"/>goons, ſo that they were forced to make good that
+paſſe with the Forlorn-hope and Cheſhire Dragoons, under the com<g ref="char:EOLhyphen"/>mand of
+capt. <hi>Finch</hi> and capt. <hi>Holt,</hi> ſtout and reſolute men,
+theſe, with the Forlorn-hope, behaved themſelves gallantly, and maintained
+the paſſe till the foot came up, the moſt part of which, with the
+VVar<g ref="char:EOLhyphen"/>wick and Derbyſhire horſe, commanded by Major <hi>Sanders</hi> &amp;
+Major <hi>Hokeſworth,</hi> 
+               <pb n="6" facs="tcp:113290:4"/>
+               <!-- PDF PAGE 60 -->ſeconding
+the Forlorn-hope, bare the burthen of the day, whiles the Refor<g ref="char:EOLhyphen"/>mades,
+Cheſhire horſe, and four hundred Lancaſhire foot vvere intended for a
+greater ſervice; for, the Commanders finding that ſtrait lane too difficult
+a paſſe to fall through upon the Enemy, who were marſhalled in open
+field; theſe laſt mentioned (by the advice of ſome who know the country)
+were drawn thence by Denbigh-green, a way neer four miles in compaſſe, to
+fall on the Enemy upon even ground, which whiles drawn off, the foot (exceeding
+forward to ingage them<g ref="char:EOLhyphen"/>ſelves for the whole) beat the Enemy out of the lane,
+and routed both horſe &amp; foot, driving them under the command of the
+caſtle, where they rallyed themſelves, but the forlorn-hope, Derby and
+VVarwick horſe, with the foot, encountred them a<g ref="char:EOLhyphen"/>gain, and utterly routed,
+whom the horſe <pb n="7" facs="tcp:113290:4"/>
+               <!-- PDF PAGE 60 -->chaſed eight
+miles in the way to Con<g ref="char:EOLhyphen"/>way, making great execution on them in the way, taking
+many priſoners, and five or ſix hundred horſe, and ſo long pur<g ref="char:EOLhyphen"/>ſued,
+that not above ſeven ſcore were left together.</p>
+            <p>To give every one his due, in this ſer<g ref="char:EOLhyphen"/>vice, would ſavour
+too much of vain<g ref="char:EOLhyphen"/>glory: But this I may modeſtly report, That every one
+endeavoured to exceed each other in Gallantry, whoſe ſpirits God had
+raiſed to ſo high a pitch, as might ſuit to a work of ſo high a nature.
+Its conjectured by thoſe who are beſt able to give account herein, that
+above one hundred of the Enemy were ſlain, about four hundred taken
+priſoners, with divers men of quality. Its not known that any of ours are
+ſlain, and few wounded.</p>
+            <p>It is the deſire of our hearts, that God alone may have the
+honour of his own <pb n="8" facs="tcp:113290:5"/>
+               <!-- PDF PAGE 61 -->work, the
+characters of whoſe power are ſo memorably ſtampt upon it, whoſe
+goodneſſe our ſins have not yet ſo wea<g ref="char:EOLhyphen"/>ried, to make him weary of
+renewed mercies. VVhiles we ſet before us, that which our eyes have ſeen,
+the Enemies compact body, falling off at pleaſure, un<g ref="char:EOLhyphen"/>der the protection of
+the caſtle, our di<g ref="char:EOLhyphen"/>ſtracted body the leſſer part ingaged with them, the
+greater at too great a diſtance for our own relief, theirs flying, our
+ſmall part purſuing, overtaking, ſpoiling, and now ſafe return'd, after
+ſo great travell &amp; hazard, wee cannot but proclaim to the world, that the
+Heavens rule; to the Church, that this God is our God for ever &amp; he
+ſhalbe our guide unto death. By the next there will be given an exact account
+of the priſoners, &amp; moſt memorable paſ<g ref="char:EOLhyphen"/>ſages, which now cannot be
+preſented by</p>
+            <closer>
+               <salute>Sir, </salute> 
+               <signed>Your Honours moſt humble Servant,
+<hi>Nathanael Lancaſter.</hi>
+               </signed> 
+               <dateline>
+                  <hi>Denbigh
+town,</hi>
+                  <date>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 1.
+1645.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
